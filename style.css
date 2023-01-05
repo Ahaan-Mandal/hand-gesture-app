@@ -1,0 +1,20 @@
+body {
+    background-color: darkgoldenrod;
+}
+
+#heading_div{
+    background-color: aqua;
+border-radius: 30px;
+}
+
+#heading{
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif, ;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.emojis{
+    font-size: 30px;
+    margin-right: 50px;
+}
